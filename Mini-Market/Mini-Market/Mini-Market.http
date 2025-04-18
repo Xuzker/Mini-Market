@@ -1,0 +1,6 @@
+@Mini_Market_HostAddress = http://localhost:5207
+
+GET {{Mini_Market_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
